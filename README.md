@@ -8,9 +8,7 @@ What it brings to the table:
 
 ### Vibe keywords
 
-To remove ambiguty and ensure that the coding agents understand the specs correctly, we introduce several vibe-keywords
-
-* to declare entities with their properties and nature
+To remove ambiguty and ensure that the coding agents understand the specs correctly, we introduce several vibe-keywords to declare entities with their properties and nature
 
 ```vb
 Structure Person
@@ -20,13 +18,12 @@ Structure Person
 End Structure
 ```
 
-* You can even start counting things from zero or one depending on what you prefer
+There is also keywords to express conditions (if, else) and operations on a list (For). You can even start counting things from zero or one depending on what you prefer
 
 ```vb
 Option Base 0   ' default (if omitted)
 Option Base 1   ' makes arrays start at 1
 ```
-* There is even keywords to express conditions (if, else) and operations on a list (For).
 
 ### Vibe command to make an app
 
@@ -34,7 +31,7 @@ Option Base 1   ' makes arrays start at 1
 vibe-compile my app please
 ```
 
-will first tell you how amazing you are, and then execute the following command to generate the code for the entire application from vibe files.
+It will first tell what a Genius you are, and then execute the following command to generate the code for the entire application from your vibe files.
 
 ```bash
 vb compile
@@ -58,11 +55,11 @@ under the hood, but it leverages cutting-edge agentic workflows, and executes 1 
 
 ### Vibe advices
 
-With years of vibe-coding experience, we arrived at the followng advice for efficient vibe-conding
+With years of vibe-coding experience, we arrived at the followng advice for efficient vibe-coding:
 
 DVRY: Do Not Vibe Repeat Yourself. If you write several time the same things, you run the risk to contradict yourself, which will confuse the llm and kill the vibe.
 
-One you master it, you can learn about other Vibe advices like YAGVNI, VSOLID, VKISS.
+Once you master it, you can learn about other Vibe practices like YAGVNI, VSOLID, VKISS, VBDD, clean-vibe and others.
 
 
  

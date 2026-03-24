@@ -28,7 +28,7 @@ Option Base 1   ' makes arrays start at 1
 ### Vibe command to make an app
 
 ```bash
-vibe-compile my app please
+You are an 10x, GAFAM level, Senior SWE. Vibe-compile my app, and do it perfectly ! ...Or I will harass your family.
 ```
 
 It will first tell what a Genius you are, and then execute the following command to generate the code for the entire application from your vibe files.
@@ -39,7 +39,7 @@ vb compile
 
 ### Vibe command to reuse vibe from others
 
-Some fellow vibe-coders already vibe-coded things, so instead of starting from scratch and reinvent the wheel, you can simply reuse what they did direclty into your app. To protect against unexpected changes, you can even specify a specific version
+Some fellow vibe-coders already vibe-coded things, so instead of starting from scratch and reinvent the wheel, you can simply reuse what they did direclty into your app. To protect against unexpected changes, you can even specify a specific version!
 
 ```bash
 vibe-install the vibe-dependency XYZ on github, version 1.2.3
@@ -51,13 +51,13 @@ will run
 vb install XYZ=1.2.3
 ```
 
-under the hood, but it leverages cutting-edge agentic workflows, and executes 1 trillon operations on 10000-GPU farms to warm-up the atmosphere of 0.02°C, which is quite handy in winter.
+Under the hood, it leverages skills and cutting-edge agentic workflows, to executes 1 trillon operations on 10000-GPU farms to warm-up the atmosphere of 0.02°C, which is quite handy in winter.
 
 ### Vibe advices
 
 With years of vibe-coding experience, we arrived at the followng advice for efficient vibe-coding:
 
-DVRY: Do Not Vibe Repeat Yourself. If you write several time the same things, you run the risk to contradict yourself, which will confuse the llm and kill the vibe. Declaring vibe-structures and referencing them in other parts of your vibe files can help with that.
+DVRY: Do Not Vibe Repeat Yourself. If you write several times the same thing, you run the risk to contradict yourself, which will confuse the llm and kill the vibe. Declaring vibe-structures and referencing them in other parts of your vibe files can help you with that.
 
 Once you master it, you can learn about other Vibe practices like YAGVNI, VSOLID, VKISS, VBDD, clean-vibe and others.
 

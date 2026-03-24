@@ -42,7 +42,7 @@ vb compile
 Some fellow vibe-coders already vibe-coded things, so instead of starting from scratch and reinvent the wheel, you can simply reuse what they did direclty in your app. To protect against unexpected changes in the things provided by them, you can even specify a specific version
 
 ```bash
-vice-install the vibe-dependency XYZ on github, version 1.2.3
+vibe-install the vibe-dependency XYZ on github, version 1.2.3
 ```
 
 will run

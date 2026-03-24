@@ -37,9 +37,9 @@ It will first tell what a Genius you are, and then execute the following command
 vb compile
 ```
 
-### Vibe command to reuse vibe-package from others
+### Vibe command to reuse vibe from others
 
-Some fellow vibe-coders already vibe-coded things, so instead of starting from scratch and reinvent the wheel, you can simply reuse what they did direclty in your app. To protect against unexpected changes in the things provided by them, you can even specify a specific version
+Some fellow vibe-coders already vibe-coded things, so instead of starting from scratch and reinvent the wheel, you can simply reuse what they did direclty into your app. To protect against unexpected changes, you can even specify a specific version
 
 ```bash
 vibe-install the vibe-dependency XYZ on github, version 1.2.3

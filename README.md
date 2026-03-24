@@ -57,7 +57,7 @@ under the hood, but it leverages cutting-edge agentic workflows, and executes 1 
 
 With years of vibe-coding experience, we arrived at the followng advice for efficient vibe-coding:
 
-DVRY: Do Not Vibe Repeat Yourself. If you write several time the same things, you run the risk to contradict yourself, which will confuse the llm and kill the vibe.
+DVRY: Do Not Vibe Repeat Yourself. If you write several time the same things, you run the risk to contradict yourself, which will confuse the llm and kill the vibe. Declaring vibe-structures and referencing in other parts of your vibe files can help with that.
 
 Once you master it, you can learn about other Vibe practices like YAGVNI, VSOLID, VKISS, VBDD, clean-vibe and others.
 

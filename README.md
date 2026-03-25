@@ -2,7 +2,7 @@
 
 Vibe coding is amazing, but at some point, you need to bring some structure to build more complex and reliable apps.
 
-This is where VibeBasic enter the game. a new way to Vibe-code using Spec-Driven Development
+This is where VibeBasic enter the game. Bye-bye weird coding symbols and black magic (a.k.a the terminal), you can now vibe-code scalable and reliable apps without Software Engineers.
 
 What it brings to the table:
 
@@ -45,7 +45,7 @@ Some fellow vibe-coders already vibe-coded things, so instead of starting from s
 vibe-install the vibe-dependency XYZ on github, version 1.2.3
 ```
 
-will run
+is an intuitive shorcut to executing this obscure command:
 
 ```bash
 vb install XYZ=1.2.3
@@ -61,5 +61,8 @@ DVRY: Do Not Vibe Repeat Yourself. If you write several times the same thing, yo
 
 Once you master it, you can learn about other Vibe practices like YAGVNI, VSOLID, VKISS, VBDD, clean-vibe and others.
 
+### Vibe security
+
+Vibe-basic might or might not use liteLLM. How would I know anyway, I vibed the whole thing 
 
  
